@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 /**
-*这是一个画板页面
+*这是一个画板页面，根据手势进行绘画
 */
 
 public class MainActivity extends AppCompatActivity {
