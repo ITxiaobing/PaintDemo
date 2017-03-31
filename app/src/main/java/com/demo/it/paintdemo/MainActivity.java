@@ -3,6 +3,9 @@ package com.demo.it.paintdemo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+/**
+*主界面
+*/
 
 public class MainActivity extends AppCompatActivity {
 
