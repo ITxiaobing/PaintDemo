@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-you is are a man
-=======
-you dont da are a man
->>>>>>> 5f3122f... font
